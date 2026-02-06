@@ -1,4 +1,10 @@
 # Embedded Systems Final Project (CPRE 288)
+<p align="center">
+  <img src="media/protocue-logo.png" alt="ProtoCue Logo" width="400"/>
+</p>
+
+# Embedded Systems Final Project – ProtoCue
+<p align="center"><em>Scout · Secure · Signal</em></p>
 
 ## Overview
 This repository contains the final embedded systems project for **CPRE 288 – Introduction to Embedded Systems** at Iowa State University. The project focuses on low-level C firmware development, real-time behavior, and direct hardware control on an ARM-based microcontroller.
