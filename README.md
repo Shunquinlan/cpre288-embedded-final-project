@@ -75,7 +75,7 @@ The GUI communicates with the embedded system via serial communication.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `README.md` – Project overview and documentation  
 - `src/` – Embedded C source and header files  
