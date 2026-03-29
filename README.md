@@ -53,6 +53,10 @@ ProtoCue is a functional embedded prototype demonstrating autonomous sensing and
 ProtoCue met all core functional requirements and serves as a proof-of-concept for low-level embedded system design.
 
 ---
+## 📄 Final Report
+[📥 View Full Report](ProtoCue_Final_Report.pdf)
+
+---
 
 ## Repository Structure
 - README.md – Project overview and documentation
