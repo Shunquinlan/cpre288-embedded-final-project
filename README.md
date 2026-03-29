@@ -69,6 +69,7 @@ ProtoCue met all core functional requirements and serves as a proof-of-concept f
 ---
 
 ## Author
-**Shun Quinlan**  
-Electrical Engineering – Embedded System (CPRE 288, Spring 2025) 
+**Shun Quinlan**
 Iowa State University
+Electrical Engineering – Embedded System (CPRE 288, Spring 2025) 
+
