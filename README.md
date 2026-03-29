@@ -54,7 +54,7 @@ ProtoCue met all core functional requirements and serves as a proof-of-concept f
 
 ---
 
-## 📄 Final Report
+## Final Report
 [📥 Download Full Report](./ProtoCue_Final_Report.pdf)
 
 ---
@@ -65,14 +65,6 @@ ProtoCue met all core functional requirements and serves as a proof-of-concept f
 - `src/` – Embedded C source and header files  
 - `media/` – Images and assets  
 - `ProtoCue_Final_Report.pdf` – Final project report
-
----
-
-## Repository Structure
-- README.md – Project overview and documentation
-- media/ – Logos, demo images, and videos
-- src/ – Embedded C source code
-- docs/ – Final project report and supporting documentation
 
 ---
 
