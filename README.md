@@ -54,6 +54,22 @@ ProtoCue met all core functional requirements and serves as a proof-of-concept f
 
 ---
 
+
+## GUI Interface
+
+A Python-based GUI was developed to visualize system data and provide user interaction with the embedded system.
+
+Features include:
+- Real-time sensor data visualization  
+- Control panels for system interaction  
+- Logging and debugging interface  
+- Modular panel-based design  
+
+The GUI communicates with the embedded system via serial communication.
+
+---
+
+
 ## Final Report
 [📥 Download Full Report](./ProtoCue_Final_Report.pdf)
 
